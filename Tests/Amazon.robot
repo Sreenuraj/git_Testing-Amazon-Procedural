@@ -38,4 +38,5 @@ User must sign in to do checkout
 
 New test for Feature 2
     log  test for feature 2
+    log  something else
 
