@@ -36,5 +36,6 @@ User must sign in to do checkout
     Amazon.Proceed to checkout
     Amazon.Verify the Sign in screen
 
-
+New test for Feature 2
+    log  test for feature 2
 
