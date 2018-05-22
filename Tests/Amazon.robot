@@ -28,6 +28,7 @@ User add product to cart
     Amazon.Add product to cart
 
 User must sign in to do checkout
+    [tags]  checkout
     #Amazon.Go to the url
     #Amazon.Search for a product
     #Amazon.Add product to cart
