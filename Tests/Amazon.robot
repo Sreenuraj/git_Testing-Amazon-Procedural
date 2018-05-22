@@ -18,7 +18,7 @@ ${SEARCH_TERM} =  alexa
 
 *** Test Cases ***
 User search for a product
-    [tags]  smoke  Test
+    [tags]  smoke  
     Amazon.Go to the url
     Amazon.Search for a product
 
