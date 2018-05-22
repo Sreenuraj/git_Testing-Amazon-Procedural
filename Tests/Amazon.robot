@@ -23,7 +23,7 @@ User search for a product
     Amazon.Search for a product
 
 User add product to cart
-    [tags]  smoke  Test
+    [tags]  smoke  testing
     #Amazon.Go to the url
     #Amazon.Search for a product
     Amazon.Add product to cart
