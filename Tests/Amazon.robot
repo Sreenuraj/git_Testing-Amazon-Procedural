@@ -18,7 +18,7 @@ ${SEARCH_TERM} =  alexa
 
 *** Test Cases ***
 User search for a product
-    [tags]  smoke  
+    [tags]  smoke  Test
     Amazon.Go to the url
     Amazon.Search for a product
 
@@ -36,7 +36,5 @@ User must sign in to do checkout
     Amazon.Proceed to checkout
     Amazon.Verify the Sign in screen
 
-New test for Feature 2
-    log  test for feature 2
-    log  something else
+
 
